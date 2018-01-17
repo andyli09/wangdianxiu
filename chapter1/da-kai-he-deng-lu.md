@@ -1,4 +1,4 @@
-# 网店秀使用网址
+# 必须网店秀使用网址
 
 PC端工具网址：[http://www.wangdianxiu.com/tool](http://www.wangdianxiu.com/tool)
 
@@ -26,5 +26,5 @@ PC端工具模块库：[http://www.wangdianxiu.com/jtool/sharelist.html](http://
 
 ![](/assets/20180117095740.png)
 
-关于
+关于必须使用京东账号登录的说明
 
