@@ -23,8 +23,8 @@
   * [商品价格](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-jia-ge.md)
   * [购物车](wang-dian-xiu-zu-jian-shuo-ming/gou-wu-che.md)
   * [二维码](wang-dian-xiu-zu-jian-shuo-ming/er-wei-ma.md)
-  * 搜索框
-  * 咚咚
+  * [搜索框](wang-dian-xiu-zu-jian-shuo-ming/sou-suo-kuang.md)
+  * [咚咚](wang-dian-xiu-zu-jian-shuo-ming/dong-dong.md)
   * 收藏
   * 分享
   * 关注
