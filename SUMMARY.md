@@ -10,6 +10,6 @@
   * [快捷键](chapter1/kuai-jie-jian.md)
   * [制作模块](chapter1/zhi-zuo-mo-kuai.md)
   * [导出模块](chapter1/dao-chu-mo-kuai.md)
-  * 导入模块
+  * [导入模块](chapter1/dao-ru-mo-kuai.md)
 * [网店秀组件说明](wang-dian-xiu-zu-jian-shuo-ming.md)
 
