@@ -26,5 +26,5 @@ PC端工具模块库：[http://www.wangdianxiu.com/jtool/sharelist.html](http://
 
 ![](/assets/20180117095740.png)
 
-关于必须使用京东账号登录的说明
+[关于必须使用京东账号登录的说明](/chapter1/guan-yu-wang-dian-xiu.md)
 
