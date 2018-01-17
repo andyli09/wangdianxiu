@@ -12,17 +12,17 @@
   * [导出模块](chapter1/dao-chu-mo-kuai.md)
   * [导入模块](chapter1/dao-ru-mo-kuai.md)
 * [网店秀组件说明](wang-dian-xiu-zu-jian-shuo-ming.md)
-  * 模块背景
-  * 任意图层
-  * 单图
-  * 热区
-  * 缩略图轮播
-  * 任意轮播
-  * 商品分类
-  * 商品列表
-  * 商品价格
-  * 购物车
-  * 二维码
+  * [模块背景](wang-dian-xiu-zu-jian-shuo-ming/mo-kuai-bei-jing.md)
+  * [任意图层](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-tu-ceng.md)
+  * [单图](wang-dian-xiu-zu-jian-shuo-ming/dan-tu.md)
+  * [热区](wang-dian-xiu-zu-jian-shuo-ming/re-qu.md)
+  * [缩略图轮播](wang-dian-xiu-zu-jian-shuo-ming/suo-lve-tu-lun-bo.md)
+  * [任意轮播](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo.md)
+  * [商品分类](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-fen-lei.md)
+  * [商品列表](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao.md)
+  * [商品价格](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-jia-ge.md)
+  * [购物车](wang-dian-xiu-zu-jian-shuo-ming/gou-wu-che.md)
+  * [二维码](wang-dian-xiu-zu-jian-shuo-ming/er-wei-ma.md)
   * 搜索框
   * 咚咚
   * 收藏
