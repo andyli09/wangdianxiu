@@ -1,3 +1,4 @@
-# My Awesome Book
+# 网店秀在线编辑工具3.0用户手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+欢迎使用 网店秀用户手册！本手册包括详尽的使用说明、面向京东商家使用网店秀在线编辑工具的工作流程和免代码可视化店铺装修 的新手教程。能够帮您快速掌握使用网店秀快速编辑装修京东店铺的方法。
+
