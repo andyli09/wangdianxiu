@@ -22,7 +22,7 @@ PC端工具模块库：[http://www.wangdianxiu.com/jtool/sharelist.html](http://
 
 ![](/assets/1.png)
 
-请
+请输入自己的京东账号和密码
 
 ![](/assets/20180117095740.png)
 
