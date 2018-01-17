@@ -39,6 +39,7 @@
   * [开关灯](wang-dian-xiu-zu-jian-shuo-ming/kai-guan-deng.md)
   * [侧边栏](wang-dian-xiu-zu-jian-shuo-ming/ce-bian-lan.md)
   * [任意文本](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-wen-ben.md)
+  * [双面文本](wang-dian-xiu-zu-jian-shuo-ming/shuang-mian-wen-ben.md)
   * [HTML](wang-dian-xiu-zu-jian-shuo-ming/html.md)
   * [摇摆动画](wang-dian-xiu-zu-jian-shuo-ming/yao-bai-dong-hua.md)
   * [循环动画](wang-dian-xiu-zu-jian-shuo-ming/xun-huan-dong-hua.md)
