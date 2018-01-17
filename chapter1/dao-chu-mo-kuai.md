@@ -20,7 +20,9 @@
 
 ### 复制后的代码放到jshop店铺装修后台
 
-京东
+京东jshop店铺装修后台地址：http://jdshop.jd.com/index.html
 
+![](/assets/14.png)
 
+进入
 
