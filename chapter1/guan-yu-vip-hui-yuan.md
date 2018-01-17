@@ -3,10 +3,10 @@
 |  | 会员权限 | 会员条件 | 会员时间 | 附加说明 |
 | :--- | :--- | :--- | :--- | :--- |
 | 普通会员 | 网店秀普通功能，如京东图片自动剪切、链接转换、禁词查询、特效预览、论坛问答等 | 登录网店秀即可成为普通会员 | 永久 | VIP到期后自动转为普通会员 |
-| **MVIP会员** | 网店秀手机端（京东M端店铺装修工具）所有功能；赠送60\*模板购买月数秀币。 | 购买酷设计[手机店铺模板](http://zx.jd.com/mdIndex.html?query=%E8%A8%AD%E8%A8%88)后可申请成为MVIP | 同所购模板时间 | 生成的代码需配合网店秀插件导入进手机店铺模板 |
+| **MVIP会员** | 网店秀手机端（京东M端店铺装修工具）所有功能；赠送60\*模板购买月数秀币。 | 购买酷设计[手机店铺模板](http://zx.jd.com/mdIndex.html?query=設計)后可申请成为MVIP | 同所购模板时间 | 生成的代码需配合网店秀插件导入进手机店铺模板 |
 | **VIP会员** | 网店秀工具（京东店铺装修工具PC端+手机端）所有功能；赠送90\*模板购买月数秀币。 | 购买酷设计[PC店铺模板](https://zx.jd.com/designerDetail.html?id=70&params.category=&params.color=&params.style=&params.tpType=1#J_SelectionWrap)后可申请成为VIP，或者直接[购买VIP会员](http://www.wangdianxiu.com/home.php?mod=spacecp&ac=usergroup&do=list) | 同所购模板时间 | 购买了酷设计手机店铺模板才能使用网店秀插件 |
 
-**秀币有什么用？**
+网店秀 
 
 秀币用于秀分享的购买模块（免费的除外）
 
