@@ -7,13 +7,13 @@
 
 #### 2.根据自己需求，拖动组件区的相应组件到工作区，每个组件都可以通过组件编辑区随意修改
 
-* [PC组件说明](/wang-dian-xiu-zu-jian-shuo-ming.md)
-* [M端组件说明](/mduan-zu-jian-shuo-ming.md)
+* [PC模块制作](/wang-dian-xiu-zu-jian-shuo-ming.md)
+* [M端模块制作](/chapter1/mduan-dao-chu-mo-kuai.md)
 
 #### 3.制作好模块之后，导出并复制生成的代码放到店铺里面。
 
-* [PC端模块导出](/chapter1/dao-chu-mo-kuai.md)
-* [M端模块导出](/chapter1/mduan-dao-chu-mo-kuai.md)
+* [PC端模块导出和使用](/chapter1/dao-chu-mo-kuai.md)
+* [M端模块导出和使用](/chapter1/mduan-dao-chu-mo-kuai.md)
 
 ##### 
 

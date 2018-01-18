@@ -9,10 +9,10 @@
   * [工具界面](chapter1/gong-ju-jie-mian.md)
   * [快捷键](chapter1/kuai-jie-jian.md)
   * [制作模块](chapter1/zhi-zuo-mo-kuai.md)
-  * [PC端导出模块](chapter1/dao-chu-mo-kuai.md)
-  * [M端导出模块](chapter1/mduan-dao-chu-mo-kuai.md)
+  * [PC端模块导出和使用](chapter1/dao-chu-mo-kuai.md)
+  * [M端模块导出和使用](chapter1/mduan-dao-chu-mo-kuai.md)
   * [导入模块](chapter1/dao-ru-mo-kuai.md)
-* [PC端组件说明](wang-dian-xiu-zu-jian-shuo-ming.md)
+* [PC端模块制作](wang-dian-xiu-zu-jian-shuo-ming.md)
   * [模块背景](wang-dian-xiu-zu-jian-shuo-ming/mo-kuai-bei-jing.md)
   * [任意图层](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-tu-ceng.md)
   * [单图](wang-dian-xiu-zu-jian-shuo-ming/dan-tu.md)
@@ -50,7 +50,7 @@
   * [动画轮播](wang-dian-xiu-zu-jian-shuo-ming/dong-hua-lun-bo.md)
   * [多层缓动](wang-dian-xiu-zu-jian-shuo-ming/duo-ceng-huan-dong.md)
   * [酷模块](wang-dian-xiu-zu-jian-shuo-ming/ku-mo-kuai.md)
-* [M端组件说明](mduan-zu-jian-shuo-ming.md)
+* [M端模块制作](mduan-zu-jian-shuo-ming.md)
   * 模板PC转M
   * 链接PC转M
   * 自由热区
