@@ -62,5 +62,8 @@
   * [任意文本](mduan-zu-jian-shuo-ming/ren-yi-wen-ben.md)
   * [任意HTML](mduan-zu-jian-shuo-ming/ren-yi-html.md)
   * [咚咚](mduan-zu-jian-shuo-ming/dong-dong.md)
+* [秀分享（模块库）](xiu-fen-xiang-ff08-mo-kuai-ku-ff09.md)
+  * PC端秀分享
+  * M端秀分享
 * [网店秀插件](wang-dian-xiu-cha-jian-he-an-zhuang.md)
 
