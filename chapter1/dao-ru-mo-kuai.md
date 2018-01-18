@@ -8,8 +8,9 @@
 
 * 点击导入按钮
 
-        ![](/assets/18.png)
+* ![](/assets/18.png)
 
+* 
 * 复制代码到此
 
 ![](/assets/19.png)
