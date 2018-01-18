@@ -4,18 +4,17 @@
 
 本章包括以下能够让您用最快速度上手的教程内容：
 
-* [关于 Cocos Creator](http://docs.cocos.com/creator/manual/zh/getting-started/introduction.html)
-* [安装和启动](http://docs.cocos.com/creator/manual/zh/getting-started/install.html)
-* [使用 Dashboard](http://docs.cocos.com/creator/manual/zh/getting-started/dashboard.html)
-* [Hello World!](http://docs.cocos.com/creator/manual/zh/getting-started/hello-world.html)
-* [快速上手: 制作第一个游戏](http://docs.cocos.com/creator/manual/zh/getting-started/quick-start.html)
-* [代码编辑环境配置](http://docs.cocos.com/creator/manual/zh/getting-started/coding-setup.html)
-* [项目结构](http://docs.cocos.com/creator/manual/zh/getting-started/project-structure.html)
-* [编辑器基础](http://docs.cocos.com/creator/manual/zh/getting-started/basics/editor-overview.html)
-* [Cocos2d-x 用户上手指南](http://docs.cocos.com/creator/manual/zh/getting-started/cocos2d-x-guide.html)
-* [获取帮助和支持](http://docs.cocos.com/creator/manual/zh/getting-started/support.html)
+* [关于网店秀](/chapter1/guan-yu-wang-dian-xiu.md)
+* [关于VIP和秀币](/chapter1/guan-yu-vip-hui-yuan.md)
+* [打开和登录](/chapter1/da-kai-he-deng-lu.md)
+* [制作模块](/chapter1/zhi-zuo-mo-kuai.md)
+* [PC端模块导出和使用](/chapter1/dao-chu-mo-kuai.md)
+* [M端模块导出和使用](/chapter1/mduan-dao-chu-mo-kuai.md)
+* [导入模块](/chapter1/dao-ru-mo-kuai.md)
+* [工具界面](/chapter1/gong-ju-jie-mian.md)
+* [快捷键](/chapter1/kuai-jie-jian.md)
 
 ---
 
-让我们现在就马上开始，请先阅读[关于 Cocos Creator](http://docs.cocos.com/creator/manual/zh/getting-started/introduction.html)来了解这是一个怎样的游戏开发工具，能为开发者做什么。
+让我们现在就马上开始，请先阅读[关于网店秀](/chapter1/guan-yu-wang-dian-xiu.md)来了解这是一个怎样的在线编辑工具，能为京东店铺装修做什么。
 
