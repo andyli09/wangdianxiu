@@ -61,4 +61,5 @@
   * 任意文本
   * 任意HTML
   * 咚咚
+* [网店秀插件](wang-dian-xiu-cha-jian-he-an-zhuang.md)
 
