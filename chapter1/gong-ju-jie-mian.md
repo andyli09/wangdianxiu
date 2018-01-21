@@ -90,9 +90,31 @@
 
 ### **3、工具条**
 
-![](/assets/3.png)
+辅助编辑组件（图层）和界面
 
-可以框选多组件、放大缩小、吸附、标尺、锁定等，具体功能可以在鼠标放到每个小图标上看到提示
+![](/assets/3.png)![](/assets/impo6rrt.png)
+
+选中：![](/assets/imp6rrt.png)
+
+框选：![](/assets/impoe78rt.png)
+
+
+
+拖动：![](/assets/impoeeyrt.png)
+
+铅笔：![](/assets/imptttrt.png)
+
+缩放：![](/assets/imp5RHrt.png)
+
+标尺：![](/assets/impY75rt.png)
+
+网格：![](/assets/eyryuort.png)
+
+吸附：![](/assets/imUTrrt.png)
+
+锁定：![](/assets/imTYFrt.png)
+
+组件显示：![](/assets/imY3URrt.png)
 
 ### 4、组件区（核心）
 
