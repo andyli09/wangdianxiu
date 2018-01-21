@@ -24,15 +24,15 @@
 
 ![](/assets/4.png)
 
-### 5、工作区（核心）
+### [工作区（核心）](/chapter1/gong-ju-jie-mian/gong-zuo-qu-ff08-he-xin-ff09.md)
 
 ![](/assets/6.png)
 
-### 6、组件编辑区（核心）
+### [组件编辑区（核心）](/chapter1/gong-ju-jie-mian/zu-jian-bian-ji-qu-ff08-he-xin-ff09.md)
 
 ![](/assets/5.png)
 
-### 7、底部辅助条
+### [底部辅助条](/chapter1/gong-ju-jie-mian/di-bu-fu-zhu-tiao.md)
 
 ![](/assets/7.png)
 
