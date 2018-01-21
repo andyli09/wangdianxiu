@@ -15,6 +15,11 @@
 * 锁定：锁定当前组件
 * 教程：当前组件的使用方法
 * 导出：导出当前组件
+* 编辑：
+
+[PC端工具组件](/wang-dian-xiu-zu-jian-shuo-ming.md)          [M端工具组件](/mduan-zu-jian-shuo-ming.md)
+
+
 
 ### 图层面板
 
