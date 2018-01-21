@@ -7,8 +7,8 @@
 
 #### 2.根据自己需求，拖动组件区的相应组件到工作区，每个组件都可以通过组件编辑区随意修改
 
-* [PC模块制作](/wang-dian-xiu-zu-jian-shuo-ming.md)
-* [M端模块制作](/chapter1/mduan-dao-chu-mo-kuai.md)
+* [PC端工具组件](/wang-dian-xiu-zu-jian-shuo-ming.md)
+* [M端工具组件](/mduan-zu-jian-shuo-ming.md)
 
 #### 3.制作好模块之后，导出并复制生成的代码放到店铺里面。
 
