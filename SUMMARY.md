@@ -73,4 +73,5 @@
   * [PC端秀分享](xiu-fen-xiang-ff08-mo-kuai-ku-ff09/pcduan-xiu-fen-xiang.md)
   * [M端秀分享](xiu-fen-xiang-ff08-mo-kuai-ku-ff09/mduan-xiu-fen-xiang.md)
 * [网店秀插件](wang-dian-xiu-cha-jian-he-an-zhuang.md)
+* [网店秀FAQ](wang-dian-xiu-faq.md)
 
