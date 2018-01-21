@@ -20,3 +20,5 @@ A：在[网店秀](http://www.wangdianxiu.com/tool/)的底部辅助条的取色�
 
 ![](/assets/iTTGGort.png)
 
+例如：\#FFFFFF就是白色的颜色代码；网店秀工具使用颜色代码需要带着前面的\#；而京东模板中如果使用颜色代码，一般需要去掉前面的\#
+
