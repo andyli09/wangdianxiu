@@ -8,13 +8,15 @@
 
 # 网店秀界面说明（本节仅介绍PC端界面，M端基本相同）
 
-**1、登录区**
+### **1、登录区**
 
 ![](/assets/2.png)
 
 主要包含PC和M端切换按钮、登录（账号管理）和其他一下快捷链接。
 
-**2、管理区**
+[登录步骤](//chapter1/da-kai-he-deng-lu.md#网店秀登录)
+
+### **2、管理区**
 
 ![](/assets/8.png)
 
@@ -26,15 +28,49 @@
 
 ![](/assets/impoe3rt.png)
 
+**另存：**可以保存自己的模块
+
+![](/assets/implj7ort.png)
+
+**预览：**预览正在制作的模块效果
+
 **导入：**导入之前自己导出的代码到工具中进行修改
+
+![](/assets/imhjrt.png)
+
+[导入模块](/chapter1/dao-ru-mo-kuai.md)
 
 **导出：**将自己正在制作的模块导出，复制代码到店铺中去即可使用
 
-**另存：**可以保存自己的模块
+![](/assets/impfhrt.png)
+
+[PC端模块导出和使用](/chapter1/dao-chu-mo-kuai.md)
+
+[M端模块导出和使用](/chapter1/mduan-dao-chu-mo-kuai.md)
+
+**帮助：**工具使用和快捷键说明
+
+![](/assets/impljht.png)
+
+**图片空间：**点击进入自己的京东店铺图片空间，上传和生成图片地址，复制图片地址到工具中使用。
+
+![](/assets/im785drt.png)
 
 **工具：**和窗口用于自由调整成自己喜欢工具的整个编辑界面
 
-**3、组件辅助条**
+![](/assets/im3edrt.png)
+
+* 经典布局
+
+![](/assets/impodchrt.png)
+
+* 浮动布局
+
+![](/assets/imp5ft.png)
+
+
+
+### **3、组件辅助条**
 
 ![](/assets/3.png)
 
