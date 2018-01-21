@@ -12,3 +12,11 @@ A：进入自己的图片空间[https://imgzone.shop.jd.com](https://imgzone.sho
 
 ![](/assets/ifl2rt.png)
 
+---
+
+#### Q：如何获取颜色代码？
+
+A：在[网店秀](http://www.wangdianxiu.com/tool/)的底部辅助条的取色器中获取
+
+![](/assets/iTTGGort.png)
+
