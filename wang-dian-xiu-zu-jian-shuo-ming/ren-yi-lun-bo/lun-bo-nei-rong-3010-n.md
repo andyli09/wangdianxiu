@@ -12,5 +12,5 @@ N的意义见[基本设置](/wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/ji-be
 
 具体会有几个轮播（HTML），也见[基本设置](/wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/ji-ben-she-zhi.md)
 
-
+[HTML编辑按钮](/chapter1/htmlde-bian-ji-an-niu.md)
 
