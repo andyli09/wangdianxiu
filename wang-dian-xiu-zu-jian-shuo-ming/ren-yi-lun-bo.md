@@ -8,11 +8,35 @@
 
 ![](/assets/QQ6-2.png)
 
-![](/assets/QQ6-1.png)
-
 ### 编辑区
 
 [组件编辑区（核心）](/chapter1/gong-ju-jie-mian/zu-jian-bian-ji-qu-ff08-he-xin-ff09.md)
 
 ![](/assets/QQ6-3.png)
+
+基本设置
+
+![](/assets/iHort.png)
+
+轮播设置
+
+![](/assets/i90rt.png)
+
+翻页按钮\(左右箭头\)
+
+![](/assets/ihhhfort.png)
+
+扩展图层\(大图之上，缩略图之下\)
+
+![](/assets/imgfort.png)
+
+轮播【N】
+
+![](/assets/im45ort.png)
+
+轮播内容【N】
+
+![](/assets/imSErt.png)
+
+
 
