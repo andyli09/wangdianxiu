@@ -27,6 +27,11 @@
   * [热区](wang-dian-xiu-zu-jian-shuo-ming/re-qu.md)
   * [缩略图轮播](wang-dian-xiu-zu-jian-shuo-ming/suo-lve-tu-lun-bo.md)
   * [任意轮播](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo.md)
+    * [基本设置](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/ji-ben-she-zhi.md)
+    * [轮播设置](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/lun-bo-she-zhi.md)
+    * 翻页按钮\(左右箭头\)
+    * 轮播【N】
+    * 轮播内容【N】
   * [商品分类](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-fen-lei.md)
   * [商品列表](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao.md)
   * [商品价格](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-jia-ge.md)
