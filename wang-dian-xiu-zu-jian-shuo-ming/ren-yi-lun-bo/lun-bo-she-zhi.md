@@ -32,9 +32,19 @@
 
 ![](/assets/idfrrt.png)
 
-此选项是为![](/assets/imddftrt.png)服务的，用于控制动画的返回状态
+此选项是为![](/assets/imddftrt.png)服务的，用于控制动画序列的返回状态
 
-![](/assets/iggtort.png)
+---
 
-**轮播触发方式：**
+### 3处-**轮播触发方式：**
+
+![](/assets/imeett.png)
+
+---
+
+### 4处-轮播切换等待时间：
+
+![](/assets/imeetort.png)
+
+
 
