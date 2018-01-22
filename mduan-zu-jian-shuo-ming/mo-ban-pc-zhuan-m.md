@@ -6,9 +6,19 @@
 
 ![](/assets/pottgrt.png)
 
-s
+**店铺地址：**
 
-![](/assets/pogrrt.png)
+![](/assets/o4errt.png)
 
-2
+**主宽：**
+
+![](/assets/odrgt.png)
+
+**截取文字：**
+
+![](/assets/pdofrt.png)
+
+**模块：**
+
+![](/assets/dfpofrt.png)
 
