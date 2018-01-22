@@ -82,9 +82,9 @@
 
 ![](/assets/imsddtrt.png)
 
+**动画序列反向动画：**此选项是为![](/assets/imddftrt.png)服务的，用于控制动画的返回状态
 
-
-**动画序列反向动画：**
+![](/assets/iggtort.png)
 
 **轮播触发方式：**
 
