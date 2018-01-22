@@ -29,9 +29,9 @@
   * [任意轮播](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo.md)
     * [基本设置](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/ji-ben-she-zhi.md)
     * [轮播设置](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/lun-bo-she-zhi.md)
-    * 翻页按钮\(左右箭头\)
-    * 轮播【N】
-    * 轮播内容【N】
+    * [翻页按钮\(左右箭头\)](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/fan-ye-an-94ae28-zuo-you-jian-593429.md)
+    * [轮播【N】](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/lun-bo-3010-n.md)
+    * [轮播内容【N】](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/lun-bo-nei-rong-3010-n.md)
   * [商品分类](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-fen-lei.md)
   * [商品列表](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao.md)
   * [商品价格](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-jia-ge.md)
