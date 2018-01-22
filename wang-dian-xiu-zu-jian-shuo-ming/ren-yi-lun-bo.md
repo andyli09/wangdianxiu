@@ -16,27 +16,9 @@
 * [轮播【N】](/wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/lun-bo-3010-n.md)
 * [轮播内容【N】](/wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/lun-bo-nei-rong-3010-n.md)
 
----
+#### 
 
 #### 
 
----
 
-#### 
-
-#### 翻页按钮\(左右箭头\)
-
-![](/assets/ihhhfort.png)
-
-扩展图层\(大图之上，缩略图之下\)
-
-![](/assets/imgfort.png)
-
-轮播【N】
-
-![](/assets/im45ort.png)
-
-轮播内容【N】
-
-![](/assets/imSErt.png)
 
