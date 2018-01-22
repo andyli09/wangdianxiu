@@ -20,6 +20,7 @@
   * [导入模块](chapter1/dao-ru-mo-kuai.md)
   * [快捷键](chapter1/kuai-jie-jian.md)
   * [CSS3动画特效设置](chapter1/css3dong-hua-te-xiao-she-zhi.md)
+  * [HTML编辑按钮](chapter1/htmlde-bian-ji-an-niu.md)
 * [PC端工具组件](wang-dian-xiu-zu-jian-shuo-ming.md)
   * [模块背景](wang-dian-xiu-zu-jian-shuo-ming/mo-kuai-bei-jing.md)
   * [任意图层](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-tu-ceng.md)
