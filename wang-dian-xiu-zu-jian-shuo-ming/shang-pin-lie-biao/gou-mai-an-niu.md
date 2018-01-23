@@ -1,6 +1,6 @@
 # 购买按钮
 
-工作区内实例：![](/assets/i6ort.png)
+工作区内实例：![](/assets/ime4grt.png)
 
 ### 编辑区
 
