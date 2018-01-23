@@ -1,4 +1,12 @@
-[购买按钮](/wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/gou-mai-an-niu.md)
+# 购买按钮
 
 ![](/assets/p0o4rt.png)
+
+**样式：**![](/assets/i3609ort.png)
+
+进入商品详情：则点击购买按钮会到商品详情页
+
+进入购物车：则点击购买按钮会到将当前商品直接加入购物车
+
+[CSS3动画特效设置](#)参照
 
