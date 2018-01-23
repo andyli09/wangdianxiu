@@ -50,8 +50,8 @@
     * [购买按钮](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/gou-mai-an-niu.md)
     * [关注](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/guan-zhu.md)
     * [加购物车](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/jia-gou-wu-che.md)
-    * 二维码
-    * 分享
+    * [二维码](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/er-wei-ma.md)
+    * [分享](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/fen-xiang.md)
   * [商品价格](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-jia-ge.md)
   * [购物车](wang-dian-xiu-zu-jian-shuo-ming/gou-wu-che.md)
   * [二维码](wang-dian-xiu-zu-jian-shuo-ming/er-wei-ma.md)
