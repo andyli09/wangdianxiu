@@ -39,7 +39,7 @@
     * [基础信息](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/ji-chu-xin-xi.md)
     * [边框背景](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/bian-kuang-bei-jing.md)
     * [列表设置](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/lie-biao-she-zhi.md)
-    * [鼠标选中样式（动画）](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/shu-biao-xuan-zhong-yang-shi-ff08-dong-hua-ff09.md)
+    * [选中样式](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/shu-biao-xuan-zhong-yang-shi-ff08-dong-hua-ff09.md)
     * [扩展图片](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/kuo-zhan-tu-pian.md)
     * [商品名称](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/shang-pin-ming-cheng.md)
     * [原价设置](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/yuan-jia-she-zhi.md)
