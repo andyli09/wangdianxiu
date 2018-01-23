@@ -1,6 +1,6 @@
 # 节省设置
 
-工作区内实例：![](/assets/i6ort.png)
+工作区内实例：![](/assets/imd3yrt.png)
 
 ### 编辑区
 

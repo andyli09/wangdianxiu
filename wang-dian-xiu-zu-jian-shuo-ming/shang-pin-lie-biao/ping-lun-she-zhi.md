@@ -1,6 +1,6 @@
 # 评论设置
 
-工作区内实例：![](/assets/i6ort.png)
+工作区内实例：![](/assets/irrt.png)
 
 ### 编辑区
 
