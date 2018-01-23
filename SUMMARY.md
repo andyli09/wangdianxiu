@@ -35,6 +35,23 @@
     * [轮播内容【N】](wang-dian-xiu-zu-jian-shuo-ming/ren-yi-lun-bo/lun-bo-nei-rong-3010-n.md)
   * [商品分类](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-fen-lei.md)
   * [商品列表](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao.md)
+    * [基本设置](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/ji-ben-she-zhi.md)
+    * [基础信息](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/ji-chu-xin-xi.md)
+    * [边框背景](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/bian-kuang-bei-jing.md)
+    * [列表设置](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/lie-biao-she-zhi.md)
+    * [鼠标选中样式（动画）](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/shu-biao-xuan-zhong-yang-shi-ff08-dong-hua-ff09.md)
+    * 扩展图片
+    * 商品名称
+    * 原价设置
+    * 现价设置
+    * 折扣设置
+    * 节省设置
+    * 评论设置
+    * 购买按钮
+    * 关注
+    * 加购物车
+    * 二维码
+    * 分享
   * [商品价格](wang-dian-xiu-zu-jian-shuo-ming/shang-pin-jia-ge.md)
   * [购物车](wang-dian-xiu-zu-jian-shuo-ming/gou-wu-che.md)
   * [二维码](wang-dian-xiu-zu-jian-shuo-ming/er-wei-ma.md)
