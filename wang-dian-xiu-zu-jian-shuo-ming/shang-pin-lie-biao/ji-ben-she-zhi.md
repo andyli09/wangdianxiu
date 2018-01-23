@@ -1,4 +1,6 @@
-[基本设置](/wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/ji-ben-she-zhi.md)
+# 基本设置
 
 ![](/assets/idet4ort.png)
+
+
 

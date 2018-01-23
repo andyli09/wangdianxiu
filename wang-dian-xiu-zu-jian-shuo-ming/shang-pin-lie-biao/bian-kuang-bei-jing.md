@@ -1,4 +1,8 @@
-[边框背景](/wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/bian-kuang-bei-jing.md)
+# 边框背景
+
+工作区内实例：![](/assets/i6ort.png)
+
+### 编辑区
 
 ![](/assets/i2d3frt.png)
 

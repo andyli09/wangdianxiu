@@ -1,4 +1,8 @@
-[扩展图片](/wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/kuo-zhan-tu-pian.md)
+# 扩展图片
+
+工作区内实例：![](/assets/i6ort.png)
+
+### 编辑区
 
 ![](/assets/iet2brt.png)
 

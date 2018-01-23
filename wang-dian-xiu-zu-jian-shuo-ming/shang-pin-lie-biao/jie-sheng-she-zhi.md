@@ -1,4 +1,8 @@
-[节省设置](/wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/jie-sheng-she-zhi.md)
+# 节省设置
+
+工作区内实例：![](/assets/i6ort.png)
+
+### 编辑区
 
 ![](/assets/m3po4rt.png)
 

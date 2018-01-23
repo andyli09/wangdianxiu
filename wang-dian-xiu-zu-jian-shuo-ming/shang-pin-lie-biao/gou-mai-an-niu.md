@@ -1,5 +1,9 @@
 # 购买按钮
 
+工作区内实例：![](/assets/i6ort.png)
+
+### 编辑区
+
 ![](/assets/p0o4rt.png)
 
 **样式：**![](/assets/i3609ort.png)

@@ -1,4 +1,8 @@
-[原价设置](/wang-dian-xiu-zu-jian-shuo-ming/shang-pin-lie-biao/yuan-jia-she-zhi.md)
+# 原价设置
+
+工作区内实例：![](/assets/i6ort.png)
+
+### 编辑区
 
 ![](/assets/mdt8port.png)
 
