@@ -6,7 +6,7 @@
 
 例如下图所示就是一个扩展图片
 
-![](/assets/imde32rt.png)
+![](/assets/imfd3t.png)
 
 [CSS3动画特效设置](#)参照
 
