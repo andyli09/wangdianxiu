@@ -12,14 +12,15 @@
 
 * 删除：删除当前组件
 * 示例：当前组件的示例模块
+
+![](/assets/im2d1r3t.png)
+
 * 锁定：锁定当前组件
 * 教程：当前组件的使用方法
 * 导出：导出当前组件
 * 编辑：
 
 [PC端工具组件](/wang-dian-xiu-zu-jian-shuo-ming.md)          [M端工具组件](/mduan-zu-jian-shuo-ming.md)
-
-
 
 ### 图层面板
 
