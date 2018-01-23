@@ -4,5 +4,3 @@
 
 ![](/assets/pdtaort.png)
 
-制作一般的热区
-
