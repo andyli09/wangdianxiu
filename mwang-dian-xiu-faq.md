@@ -14,3 +14,9 @@ A：首先，用组件![](/assets/rpddgort.png)或者![](/assets/ordtr2t.png)添
 
 ![](/assets/od1r3t.png)
 
+---
+
+#### Q：关于链接个数不能超过30个的说明？
+
+A：在使用![](/assets/i34mert.png)和![](/assets/imFHIRrt.png)的组件的时候，需要控制当前正在编辑的模块中所有的链接个数不要多于30个。如果需要添加更多的链接，可以分开制作多个模块导入到模板中
+
