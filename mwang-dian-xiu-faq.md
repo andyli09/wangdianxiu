@@ -2,9 +2,15 @@
 
 A：在使用网店秀M端工具的时候，遇到PC端链接会自动转为M端链接，除非是这个PC端链接没有对应的M端链接。比方说PC端活动页链接就没有系统默认的对应的M端链接；对应无法工具无法自动转换的链接，需要手动自行修改。
 
+---
+
 #### Q：M端如何热区制作？
 
-A：首先，用组件![](/assets/rpddgort.png)或者![](/assets/ordtr2t.png)添加一个或多个图片到工作区
+A：首先，用组件![](/assets/rpddgort.png)或者![](/assets/ordtr2t.png)添加图片到工作区，重复使用单图组件可以添加多个图片
 
 ![](/assets/od4yrt.png)
+
+然后，用组件![](/assets/id3kort.png)添加热区
+
+![](/assets/od1r3t.png)
 
