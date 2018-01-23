@@ -1,8 +1,8 @@
 # 商品名称
 
-工作区内实例：![](/assets/i6ort.png)
+![](/assets/idebfort.png)
 
-### 编辑区
+控制商品标题的显示样式
 
 ![](/assets/mdt5port.png)
 
