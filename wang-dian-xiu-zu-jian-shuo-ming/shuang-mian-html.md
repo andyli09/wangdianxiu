@@ -10,5 +10,11 @@ HTML增强版，鼠标浮上切换任意内容\(可选特效动画效果\)
 
 [组件编辑区（核心）](/chapter1/gong-ju-jie-mian/zu-jian-bian-ji-qu-ff08-he-xin-ff09.md)
 
-![](/assets/QQ30.png)
+![](http://img11.360buyimg.com/cms/jfs/t17986/302/262550981/77827/c8a4996e/5a67fcd4N9c8c994d.gif)
+
+**正面和反面HTML：**
+
+[HTML编辑按钮](/chapter1/htmlde-bian-ji-an-niu.md)
+
+**动画设置：**首先勾选开启动画，然后选择动画效果
 
