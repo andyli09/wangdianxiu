@@ -18,6 +18,26 @@
 
 ![](/assets/im1e5rt.png)
 
+**HTMl内容：**[HTML编辑按钮](/chapter1/htmlde-bian-ji-an-niu.md)
+
+**内容超出：**HTML内容超出组件宽高的时候显示或隐藏
+
+![](http://img12.360buyimg.com/cms/jfs/t17650/56/279993066/230082/6edb75a2/5a68045aNc36eb384.gif)
+
+**下级组件的整个模块CSS动画触发方式：**
+
+![](/assets/i3r37t.png)
+
+这个功能在制作较为复杂的动画特效的时候非常有用，我们可以了理解当前正在使用的HTML组件为一个过渡桥梁。例如：
+
+
+
+**自定义层级\(z-index\)：**
+
+**外边框颜色：**
+
+**CSS3动画设置：**
+
 #### 锚点：
 
 ![](/assets/im35t.png)
@@ -25,6 +45,4 @@
 #### 走马灯：
 
 ![](/assets/im1r3t.png)
-
-
 
