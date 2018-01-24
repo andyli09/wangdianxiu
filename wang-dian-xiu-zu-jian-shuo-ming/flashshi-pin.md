@@ -42,3 +42,11 @@
 
 ![](/assets/p223ort.png)
 
+复制链接的详图如下，红框内即为我们要复制的链接
+
+![](/assets/imgggrt.png)
+
+过程图：
+
+![](http://img11.360buyimg.com/cms/jfs/t14638/243/2036208403/593436/c0e791a2/5a684941Nf1d511e5.gif)
+
