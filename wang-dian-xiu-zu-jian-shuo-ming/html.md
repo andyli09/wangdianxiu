@@ -12,5 +12,19 @@
 
 ![](/assets/QQ29.png)
 
+---
+
+#### 基础信息：
+
+![](/assets/im1e5rt.png)
+
+#### 锚点：
+
+![](/assets/im35t.png)
+
+#### 走马灯：
+
+![](/assets/im1r3t.png)
+
 
 
