@@ -12,15 +12,15 @@
 
 ## 总导读 {#总导读}
 
-* [关于网店秀](/chapter1/guan-yu-wang-dian-xiu.md)
-* [关于VIP和秀币](/chapter1/guan-yu-vip-hui-yuan.md)
-* [打开和登录](/chapter1/da-kai-he-deng-lu.md)
-* [制作模块](/chapter1/zhi-zuo-mo-kuai.md)
-* [PC端模块导出和使用](/chapter1/dao-chu-mo-kuai.md)
-* [M端模块导出和使用](/chapter1/mduan-dao-chu-mo-kuai.md)
-* [导入模块](/chapter1/dao-ru-mo-kuai.md)
-* [工具界面](/chapter1/gong-ju-jie-mian.md)
-* [快捷键](/chapter1/kuai-jie-jian.md)
+* [新手上路](/chapter1.md)
+* [基本使用说明](/ji-ben-shi-yong-fang-fa.md)
+* [PC端工具组件](/wang-dian-xiu-zu-jian-shuo-ming.md)
+* [M端工具组件](/mduan-zu-jian-shuo-ming.md)
+* [秀分享（模块库）](/xiu-fen-xiang-ff08-mo-kuai-ku-ff09.md)
+* [PC网店秀FAQ](/wang-dian-xiu-faq.md)
+* [M网店秀FAQ](/mwang-dian-xiu-faq.md)
+
+
 
 
 
