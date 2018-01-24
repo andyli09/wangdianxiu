@@ -14,3 +14,7 @@
 
 ![](/assets/QQ32-2.png)
 
+**动画类型：**
+
+![](/assets/i3urt.png)
+
