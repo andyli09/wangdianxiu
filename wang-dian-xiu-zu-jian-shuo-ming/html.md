@@ -44,9 +44,9 @@
 
 **自定义层级\(z-index\):**[详解](//wang-dian-xiu-faq.md#q：个别组件中的index-z如何设置？)
 
-**外边框颜色：**
+**外边框颜色：**当在【CSS3动画设置】在设置鼠标浮上显示外边框时用
 
-**CSS3动画设置：**
+**CSS3动画设置：**[CSS3动画特效设置](/chapter1/css3dong-hua-te-xiao-she-zhi.md)
 
 #### 锚点：
 
