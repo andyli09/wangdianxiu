@@ -10,7 +10,7 @@
 * [手机活动模板](https://zx.jd.com/designerDetail.html?id=70&params.category=&params.color=&params.style=&params.tpType=5#J_SelectionWrap)
 * [详情页模板](http://xiangqing.jd.com/market/pcSearch.html?name=酷设计)
 
-## 总导读 {#总导读}
+## 教程总导读 {#总导读}
 
 * [新手上路](/chapter1.md)
 * [基本使用说明](/ji-ben-shi-yong-fang-fa.md)
@@ -20,7 +20,11 @@
 * [PC网店秀FAQ](/wang-dian-xiu-faq.md)
 * [M网店秀FAQ](/mwang-dian-xiu-faq.md)
 
+## 工具导航
 
+* 网店秀PC端工具：http://www.wangdianxiu.com/tool
+
+* 网店秀M端工具：http://www.wangdianxiu.com/mtool
 
 
 
