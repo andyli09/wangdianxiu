@@ -66,5 +66,17 @@
 
 ![](http://img13.360buyimg.com/cms/jfs/t17071/55/266209124/280596/722bb20/5a67ec97Nde7b164d.gif)
 
+### 示例9：
+
+![](/assets/im435t.png)
+
+![](http://img12.360buyimg.com/cms/jfs/t14824/328/2046377217/1064265/4a7ee314/5a67ed54N630e5763.gif)
+
+### 示例10：
+
+![](/assets/i6r0t.png)
+
+![](http://img10.360buyimg.com/cms/jfs/t16132/350/1815177088/177381/1f99fa57/5a67edf2Nc2968afc.gif)
+
 
 
