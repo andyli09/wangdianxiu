@@ -22,9 +22,13 @@
 
 ## 工具导航
 
-* 网店秀PC端工具：http://www.wangdianxiu.com/tool
+* 网店秀PC端工具：[http://www.wangdianxiu.com/tool](http://www.wangdianxiu.com/tool)
 
-* 网店秀M端工具：http://www.wangdianxiu.com/mtool
+* 网店秀M端工具：[http://www.wangdianxiu.com/mtool](http://www.wangdianxiu.com/mtool)
+
+* 网店秀PC秀分享（模块库）：http://www.wangdianxiu.com/jtool/sharelist.html
+
+* 网店秀M秀分享（模块库）：http://www.wangdianxiu.com/jmtool/sharelist.html
 
 
 
