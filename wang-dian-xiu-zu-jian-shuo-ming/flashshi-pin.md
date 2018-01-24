@@ -32,5 +32,13 @@
 
 鼠标放上去点预览打开视频页面，如下
 
-![](/assets/p333ort.png)
+![](/assets/p333ort.png)按键盘上的F12打开当前浏览器的开发者工具
+
+![](/assets/imeeedrt.png)
+
+点一下
+
+![](/assets/ifffrt.png)然后直接去选一下视频区域，
+
+![](/assets/p223ort.png)
 
