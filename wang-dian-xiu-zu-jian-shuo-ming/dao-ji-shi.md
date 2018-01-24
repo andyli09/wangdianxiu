@@ -6,7 +6,7 @@
 
 ### 工作区实例
 
-![](/assets/QQ17-1.png)
+![](http://img13.360buyimg.com/cms/jfs/t15802/224/1920624773/2210/cb6d835f/5a6849c9N906a187f.gif)
 
 ### 编辑区
 
