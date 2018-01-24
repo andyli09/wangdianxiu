@@ -48,3 +48,23 @@
 
 ![](http://img11.360buyimg.com/cms/jfs/t19033/97/278340598/30300/ce21eae5/5a67ea8cNa0e9a164.gif)
 
+### 示例6：
+
+![](/assets/im4455rt.png)
+
+![](http://img12.360buyimg.com/cms/jfs/t16219/126/1905377880/145285/ce2984f4/5a67eb7cNe3a7a814.gif)
+
+### 示例7：
+
+![](/assets/im524rt.png)
+
+![](http://img14.360buyimg.com/cms/jfs/t17482/359/260937790/90604/2c99dcc6/5a67ec11N77f0e7e0.gif)
+
+### 示例8：
+
+![](/assets/im153rt.png)
+
+![](http://img13.360buyimg.com/cms/jfs/t17071/55/266209124/280596/722bb20/5a67ec97Nde7b164d.gif)
+
+
+
